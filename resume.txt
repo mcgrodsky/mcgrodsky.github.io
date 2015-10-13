@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<header></header>
+
+
+<body>
+	<h1>MiaKoda Grodsky</h1>
+	<h2> mcgrodsky@gmail.com </h2>
+		<div id = "job-experience>Experience</div>
+			<div id = "job-section>	
+				<div class = "job-title">Marketing and Community Relations Specialist</div>
+				<div class= "company">Coordinated Care</div>
+				<div class = "date">June 2014- June 2015</div>
+				<p>Working alongside Marketing team I organize and implement outreach efforts to prospective healthcare consumers in Washington, promoting brand awareness and building relationships with a wide range of community influencers. Day-to-day tasks include organizing/attending community events, developing relationships with community leaders, identifying and educating potential consumers of health insurance, and connecting various leads with appropriate staff for follow up. Other skills are attention to written communication, strong public speaking and presentation abilities, ability to make cold calls, build strong professional relationships with community members/leaders, and ability to manage multiple projects.</p>
+			</div>
+			<div id= "job-section">
+				<div class = "job-title">Marketing Intern</div>
+				<div class= "company">Coordinated Care</div>
+				<div class = "date">January 2014-June 2014</div>
+				<p>Assist with e-marketing, branding conversation, website content, management of photos and consents, assist with Key Provider outreach program, collateral and branding assist, writing for employee or member materials as needed, assist with projects and special events. www.coordinatedcarehealth.com</p>
+			</div>
+			<div id= "job-section">
+				<div class = "job-title">Assistant Editor</div>
+				<div class= "company">University of Puget Sound</div>
+				<div class = "date">January 2013-May 2015</div>
+				<p>Processing manuscripts into our database (Scholar One, Manuscript Central). Proofread manuscripts for “blinder” issues, communicate with submitting authors, keep detailed record of all submissions by utilizing excel, and every month use spreadsheets to prepare statistics on the submissions.</p>
+			</div>
+			<div id= "job-section">
+				<div class = "job-title">Development Intern</div>
+				<div class= "company">Puget Sound Revels</div>
+				<div class = "date">August 2013 - January 2014</div>
+				<p>Alongside executive director redesigned (wordpress) website. Manage website content alongside the facebook and twitter pages. Utilizing eTapestry to create queries of donors, ticket buyers, and volunteers in order to create census of community members. www.pugetsoundrevels.org</p>
+			</div>
+			<div id= "job-section">
+				<div class = "job-title">Digital Media Specialist</div>
+				<div class= "company">Rebecca Dashow</div>
+				<div class = "date">May 2013 - August 2013</div>
+				<p>Research, implement, and provide statistics on useful blog/website content. Using Google’s “blogger” created a new blog/website for rebeccadashow.com. Spend 15 plus hours a week researching popular blogs, spend 10 plus hours a week contacting other local websites and connect with various groups through all social media outlets. www.rebeccadashow.com</p>
+			</div>
+			<div id= "job-section">
+				<div class = "job-title">Off Campus Housing Coordinator</div>
+				<div class= "company">University of Puget Sound</div>
+				<div class = "date">January 2012 - June 2013</div>
+				<p>Processing manuscripts into our database (Scholar One, Manuscript Central). Proofread manuscripts for “blinder” issues, communicate with submitting authors, keep detailed record of all submissions by utilizing excel, and every month use spreadsheets to prepare statistics on the submissions.</p>
+			</div>
+		</div>
+
+</div>
+</body>
+</html>
